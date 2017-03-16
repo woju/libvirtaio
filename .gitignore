@@ -1,0 +1,4 @@
+build/
+dist/
+libvirtaio.egg-info/
+__pycache__/
